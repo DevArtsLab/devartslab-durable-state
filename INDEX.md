@@ -17,9 +17,9 @@
 | `Makefile` | Short validation command |
 | `migrations/` | Reference SQL migration ledger |
 | `tests/` | Dependency-free checks for SQL artifacts |
-| `md/architecture/` | Storage architecture and portability contract |
-| `md/adr/` | Instantiated Foundation decision and project decisions |
-| `md/security/` | Repository-specific threat model |
+| `docs/architecture/` | Storage architecture and portability contract |
+| `docs/adr/` | Instantiated Foundation decision and project decisions |
+| `docs/security/` | Repository-specific threat model |
 | `.agents/signal/context.md` | Durable project context for repository-aware agents |
 | `.github/workflows/` | Continuous validation |
 
@@ -27,11 +27,11 @@
 
 | File | What it covers |
 | --- | --- |
-| `md/architecture/architecture.md` | Purpose, boundaries, consumers, and integration model |
-| `md/architecture/sqlite-contract.md` | Portable SQL, migration, and operational requirements |
-| `md/adr/ADR-0003-storage-selection.md` | Adoption of Foundation D3 for SQLite scope |
-| `md/adr/ADR-0016-language-neutral-sql-contract.md` | Language-neutral project-specific decision |
-| `md/security/threat-model.md` | Data-layer threats and baseline controls |
+| `docs/architecture/architecture.md` | Purpose, boundaries, consumers, and integration model |
+| `docs/architecture/sqlite-contract.md` | Portable SQL, migration, and operational requirements |
+| `docs/adr/ADR-0003-storage-selection.md` | Adoption of Foundation D3 for SQLite scope |
+| `docs/adr/ADR-0016-language-neutral-sql-contract.md` | Language-neutral project-specific decision |
+| `docs/security/threat-model.md` | Data-layer threats and baseline controls |
 
 ## SQL and tests
 

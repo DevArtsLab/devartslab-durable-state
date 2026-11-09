@@ -61,7 +61,7 @@ service follows the Foundation's D1 or Durable Object model.
 
 - `migrations/0001_create_schema_migrations.sql` defines the reference
   migration ledger.
-- `md/architecture/sqlite-contract.md` defines migration and portability
+- `docs/architecture/sqlite-contract.md` defines migration and portability
   behavior.
 - `tests/` verifies that the reference SQL applies to a fresh SQLite database.
 

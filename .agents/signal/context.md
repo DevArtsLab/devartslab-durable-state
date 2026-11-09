@@ -25,12 +25,12 @@ language-specific runtime adapter or shared database service is provided.
 
 ## Key locations
 
-- `md/architecture/architecture.md`: scope and integration boundaries.
-- `md/architecture/sqlite-contract.md`: portability, migrations, safe queries,
+- `docs/architecture/architecture.md`: scope and integration boundaries.
+- `docs/architecture/sqlite-contract.md`: portability, migrations, safe queries,
   transactions, and recovery requirements.
 - `migrations/`: reference migration history.
 - `tests/`: executable SQL artifact checks.
-- `md/adr/`: adopted storage and language-neutrality decisions.
+- `docs/adr/`: adopted storage and language-neutrality decisions.
 
 ## Verified work and outcomes
 
@@ -48,7 +48,7 @@ language-specific runtime adapter or shared database service is provided.
 ## Sources
 
 - `README.md`
-- `md/architecture/architecture.md`
-- `md/architecture/sqlite-contract.md`
-- `md/adr/ADR-0003-storage-selection.md`
+- `docs/architecture/architecture.md`
+- `docs/architecture/sqlite-contract.md`
+- `docs/adr/ADR-0003-storage-selection.md`
 - https://github.com/DevArtsLab/foundation

@@ -27,8 +27,8 @@ isolates its database and domain schema.
 
 ## Start here
 
-1. Read [the architecture contract](md/architecture/architecture.md).
-2. Read [the SQLite portability contract](md/architecture/sqlite-contract.md).
+1. Read [the architecture contract](docs/architecture/architecture.md).
+2. Read [the SQLite portability contract](docs/architecture/sqlite-contract.md).
 3. Use the migration ledger in `migrations/` as the template for a project's
    own migration history.
 4. Record platform-specific choices in the consuming project's ADRs and verify
