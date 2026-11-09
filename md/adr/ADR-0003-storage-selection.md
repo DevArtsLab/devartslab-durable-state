@@ -36,5 +36,5 @@ unless the consumer's architecture records a justified deviation.
 
 ## Sources
 
-- [DevArts Lab Foundation, MEGA-PLAN: D3 Storage selection](https://github.com/DevArtsLab/devartslab-foundation/blob/master/md/MEGA-PLAN.md)
-- [DevArts Lab Foundation, PRE-DEVELOPMENT: ADR-0003](https://github.com/DevArtsLab/devartslab-foundation/blob/master/md/PRE-DEVELOPMENT.md)
+- [DevArts Lab Foundation, decision D3](https://github.com/DevArtsLab/foundation/blob/master/decisions/D03-storage-selection.md)
+- [DevArts Lab Foundation, predevelopment guide](https://github.com/DevArtsLab/foundation/blob/master/guides/predevelopment.md)

@@ -30,7 +30,7 @@ a shared database.
 
 ## Foundation relationship
 
-The [DevArts Lab Foundation](https://github.com/DevArtsLab/devartslab-foundation)
+The [DevArts Lab Foundation](https://github.com/DevArtsLab/foundation)
 is the authority for lab-wide platform strategy and architectural decisions.
 Its D3 storage default is D1 for relational/reporting data and Durable Object
 SQLite for per-entity state, with R2 for files and KV only for read-heavy

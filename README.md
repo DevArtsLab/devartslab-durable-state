@@ -35,7 +35,7 @@ isolates its database and domain schema.
    them against that platform's current documentation.
 
 For DevArts Lab projects, this repository complements rather than replaces
-the [DevArts Lab Foundation](https://github.com/DevArtsLab/devartslab-foundation).
+the [DevArts Lab Foundation](https://github.com/DevArtsLab/foundation).
 The Foundation remains the source for lab-wide architecture and platform
 decisions; this repository operationalizes the SQLite portion of its storage
 guidance.

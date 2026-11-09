@@ -8,7 +8,7 @@ database service.
 
 Consuming applications must extend this baseline with their own assets, data
 classification, trust boundaries, attackers, platform controls, and recovery
-requirements. See the [DevArts Lab Foundation threat model](https://github.com/DevArtsLab/devartslab-foundation/blob/master/md/security/LAB-THREAT-MODEL.md).
+requirements. See the [DevArts Lab Foundation threat model](https://github.com/DevArtsLab/foundation/blob/master/concepts/threat-model-lab.md).
 
 ## Assets and boundaries
 

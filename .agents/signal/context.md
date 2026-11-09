@@ -51,4 +51,4 @@ language-specific runtime adapter or shared database service is provided.
 - `md/architecture/architecture.md`
 - `md/architecture/sqlite-contract.md`
 - `md/adr/ADR-0003-storage-selection.md`
-- https://github.com/DevArtsLab/devartslab-foundation
+- https://github.com/DevArtsLab/foundation

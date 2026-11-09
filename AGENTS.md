@@ -6,7 +6,7 @@
   artifacts for DevArts Lab projects.
 - Keep the data layer project-owned: never introduce a shared cross-project
   database or shared credential store.
-- The [DevArts Lab Foundation](https://github.com/DevArtsLab/devartslab-foundation)
+- The [DevArts Lab Foundation](https://github.com/DevArtsLab/foundation)
   owns lab-wide architectural decisions. This repository implements and
   explains the SQLite-specific contract; do not copy the Foundation's
   architectural corpus here.
